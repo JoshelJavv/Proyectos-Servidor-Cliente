@@ -11,6 +11,6 @@ privadoServido y privadoCliente solo pueden enviar mensajes y mensajes privados 
 
 bloqueosServidor y bloqueosCliente pueden bloquear y desbloquear usuarios en el chat además de enviar mensajes privados.
 
-loginServidor y loginCliente guardan el usuario, contraseña y a los que bloqueó. Y también manda mensajes privados, bloquear y desbloquear usuarios. Los datos se guardan en una base de datos con SQLite, es necesario ejecutar el archivo .jar desde el proyecto por que ahí está el archivo de SQLite en la librería.
+loginServidor y loginCliente guardan el usuario, contraseña y a los que bloqueó. Y también manda mensajes privados, bloquea y desbloquea usuarios. Los datos se guardan en una base de datos con SQLite, es necesario ejecutar el archivo .jar desde el proyecto por que ahí está el archivo de SQLite en la librería.
 
 
