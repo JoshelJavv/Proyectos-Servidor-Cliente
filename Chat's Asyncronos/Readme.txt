@@ -9,8 +9,8 @@ Comandos de los Chat's
 
 privadoServido y privadoCliente solo pueden enviar mensajes y mensajes privados pero no bloquear.
 
-bloqueosServidor y bloqueosCliente pueden bloquear y desbloquear usuarios en el chat ademas de enviar mensajes privados.
+bloqueosServidor y bloqueosCliente pueden bloquear y desbloquear usuarios en el chat además de enviar mensajes privados.
 
-loginServidor y loginCliente guarda el usuario, contraseña y a los que bloqueó. Y tambien manda mensajes privados, bloquear y desbloquear usuarios.
+loginServidor y loginCliente guardan el usuario, contraseña y a los que bloqueó. Y también manda mensajes privados, bloquear y desbloquear usuarios. Los datos se guardan en una base de datos con SQLite, es necesario ejecutar el archivo .jar desde el proyecto por que ahí está el archivo de SQLite en la librería.
 
 
