@@ -7,7 +7,7 @@ Comandos de los Chat's
 /desbloquear nombre         /*para desbloquear a alguien*/
 
 
-privadoServido y privadoCliente solo pueden enviar mensajes y mensajes privados pero no bloquear.
+privadoServidor y privadoCliente solo pueden enviar mensajes y mensajes privados pero no bloquear.
 
 bloqueosServidor y bloqueosCliente pueden bloquear y desbloquear usuarios en el chat además de enviar mensajes privados.
 
