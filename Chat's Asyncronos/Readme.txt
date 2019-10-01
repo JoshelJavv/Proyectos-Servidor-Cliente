@@ -15,6 +15,6 @@ loginServidor y loginCliente guardan el usuario, contraseña y a los que bloque�
 
 Los datos se guardan en una base de datos con SQLite, es necesario ejecutar el archivo .jar desde el proyecto por que ahí está el archivo de SQLite en la librería.
 
-loginServidor creará una carpeta con el nombre "chat_asyncrono" y dentro de esa carpeta creará la base de datos.
+loginServidor creará una carpeta con el nombre "chat_asyncrono" dentro de la carpeta "documentos" Ejemplo: "C:\users\usuario\documents\". Y dentro de "chat_asyncrono" creará la base de datos.
 
 
